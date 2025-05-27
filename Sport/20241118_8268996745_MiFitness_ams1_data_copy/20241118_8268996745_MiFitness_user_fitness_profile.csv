@@ -1,0 +1,2 @@
+Uid,Vo2Max,MaximalMet,MaxHrm,MinHrm,RecordMaxHrm,DailyCalGoal,DailyStepGoal,InitialWeight,ChildAuth,InitialTime,DailyStandGoal,DailySleepGoal,RegularGoalList
+8268996745,0,0,0,0,,500,6000,"{""weight"":67,""timestamp"":1728388824}",0,0,0,0,"[{""field"":1,""target"":6000},{""field"":2,""target"":500},{""field"":4,""target"":30}]"
